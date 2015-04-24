@@ -1,0 +1,15 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "gulp introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rick Bates",
+  "license": "ISC",
+  "devDependencies": {
+      "gulp": "^3.8.11",
+    "gulp-util": "^3.0.4"
+  }
+}
